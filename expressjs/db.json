@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Alex",
+        "Branch":"CS"
+    },
+    {
+        "id":2,
+        "name":"Sam",
+        "Branch":"EC"
+    },
+    {
+        "id":3,
+        "name":"Jordan",
+        "Branch":"CIVIL"
+    },
+    {
+        "id":4,
+        "name":"Taylor",
+        "Branch":"IT"
+    },
+    {
+        "id":5,
+        "name":"Tim",
+        "Branch":"ME"
+    }]
